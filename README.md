@@ -13,12 +13,12 @@ Determine the winner of the election based on their assigned votes
 
 Following are the results obtained after reviewing Colorado congressional election
 
-1.	Total votes cast: 369,711
+1.	Total votes cast: 369,711 https://github.com/diana-arango/Election_Analysis/blob/main/Resources/Total%20Votes.jpg
 
 
 
 	
-2.	Number of votes and percentage of total votes for each county
+2.	Number of votes and percentage of total votes for each county 
 a.	County Votes:
 Jefferson: 10.5% (38,855)
 Denver:82.8% (306,055)
@@ -27,11 +27,11 @@ Arapahoe: 6.7%(24,801)
 3.	County with the largest number votes
 a.	Largest County Turnout: Denver
 
-4.	Number of votes and percentage of the total votes per candidate 
+4.	Number of votes and percentage of the total votes per candidate https://github.com/diana-arango/Election_Analysis/blob/main/Resources/Candidate%20votes.jpg
  
 
 
-5.	Winner, vote count and percentage of votes:
+5.	Winner, vote count and percentage of votes: https://github.com/diana-arango/Election_Analysis/blob/main/Resources/Winner.jpg
  
 ### Election – Audit results:
 The python script created for this audit can be used to tabulate and examine any election from any different state where the votes data and candidate’s information will variate. Variables as what candidate obtain the lower number of votes and county where less votes were can be also included on an audit. A challenge for this audit was to first determine the syntax error to save the county votes to a text file and get the final results printed into the election_analysis.txt as shown below. Unfortunately, the election_results file was not found
